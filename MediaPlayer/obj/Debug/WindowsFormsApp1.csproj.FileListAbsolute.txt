@@ -1,0 +1,15 @@
+C:\Users\ddgom\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ddgom\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\ddgom\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ddgom\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\ddgom\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ddgom\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ddgom\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ddgom\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ddgom\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ddgom\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MediaPlayer.exe.config
+C:\Users\ddgom\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MediaPlayer.exe
+C:\Users\ddgom\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MediaPlayer.pdb
+C:\Users\ddgom\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\ddgom\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MediaPlayer.exe
+C:\Users\ddgom\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MediaPlayer.pdb
