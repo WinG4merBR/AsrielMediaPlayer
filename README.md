@@ -1,14 +1,14 @@
 ## Requerimentos: 
 
 **Mínimo**
-> 512MB de RAM
-> .NET Framework 4.7.2
+> 512MB de RAM,
+> .NET Framework 4.7.2,
 > Windows 7 SP1
 
 **Recomendado**
 
-> 1GB de RAM
-> .NET Framework 4.7.2 ou Superior
+> 1GB de RAM,
+> .NET Framework 4.7.2 ou Superior,
 > Windows 8.1
 
 ## Sistemas Operacionais Suportados
