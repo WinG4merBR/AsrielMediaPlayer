@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>17-171476_heart-png-pixel-undertale-heart-png.ico</ApplicationIcon>
+    <ApplicationIcon>heart.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -104,6 +104,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="17-171476_heart-png-pixel-undertale-heart-png.ico" />
+    <Content Include="heart.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
